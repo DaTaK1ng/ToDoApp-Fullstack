@@ -22,27 +22,27 @@ A fullstack ToDo application built with a modern frontend (Vue 3 + Vite + TypeSc
 
 ### 1. Clone the repository
   
-```git clone https://github.com/your-username/ToDoApp-Fullstack.git
+`git clone https://github.com/your-username/ToDoApp-Fullstack.git`
 
-```cd ToDoApp-Fullstack
+`cd ToDoApp-Fullstack`
 ### 2. Setup and Run Backend
 
-```cd backEndServer
+`cd backEndServer`
 
-```npm install
+`npm install`
 
- ```npm start
+ `npm start`
 
 The backend server will start (default: http://localhost:3000/ ).
 
 ### 3. Setup and Run Frontend
 Open a new terminal:
 
-```cd todo-app
+`cd todo-app`
 
-```npm install
+`npm install`
 
-```npm run dev
+`npm run dev`
 
 ### 4.usage
 - Open your browser and navigate to http://localhost:5173/
