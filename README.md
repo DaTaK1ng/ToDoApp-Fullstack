@@ -15,6 +15,7 @@ A fullstack ToDo application built with a modern frontend (Vue 3 + Vite + TypeSc
 ## Tech Stack
 - Frontend: Vue 3, Vite, TypeScript
 - Backend: Node.js, Express
+- database:MongoDB
 ## Getting Started
 ### Prerequisites
 - Node.js (v14 or higher recommended)
